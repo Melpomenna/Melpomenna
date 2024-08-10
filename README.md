@@ -7,7 +7,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/георгий-бебия-2b0618321">
+  <a href="www.linkedin.com/in/georgebebiya">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
