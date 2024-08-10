@@ -30,6 +30,6 @@ My name is George. C++ Game Developer
 
 ### 🔥 My Stats :
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Melpomenna&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Melpomenna&theme=2077)
 
 [![codewars](https://www.codewars.com/users/Soulfon/badges/large)](https://www.codewars.com/users/Soulfon)
