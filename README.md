@@ -12,6 +12,8 @@
   </a>
 </div>
 
+----
+
 ### 👨‍💻 About Me:
 
 My name is George. C++ Game Developer
@@ -19,6 +21,8 @@ My name is George. C++ Game Developer
 - I program in C/C++
 - I have experience writing libraries, graphics programs and games
 - In my free time I like to read books and sometimes play computer games
+
+----
 
 ### 🛠 Languages and Tools :
 
