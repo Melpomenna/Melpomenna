@@ -6,11 +6,7 @@
   </a>
 </div>
 
-<div id="badges" alig="center">
-  <a href="www.linkedin.com/in/георгий-бебия-2b0618321">
-      ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-  </a>
-</div>
+(![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white))[www.linkedin.com/in/георгий-бебия-2b0618321]
 
 ### 👨‍💻 About Me:
 
